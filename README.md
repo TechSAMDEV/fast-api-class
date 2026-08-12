@@ -10,3 +10,7 @@ Learning fastapi for deployment of AI applications
 
 ### Using requirements:
 - pip install -r requirments.txt
+
+
+## Run the FASTapi app
+"uvicorn main:app --reload"
