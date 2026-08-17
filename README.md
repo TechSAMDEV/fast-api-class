@@ -9,7 +9,7 @@ Learning fastapi for deployment of AI applications
 
 
 ### Using requirements:
-- pip install -r requirments.txt
+- pip install -r requirements.txt
 
 
 ## Run the FASTapi app
